@@ -6,7 +6,7 @@ Teknologi använd: JSP/SERVLET,MYSQL,JDBC med server tomcat.
 
 1.Skapa databas som heter contactbook
 #
-2.tabell som heter contacts
+2.skapa tabell som heter contacts
 #
 tabell ser ut så här:
 #
