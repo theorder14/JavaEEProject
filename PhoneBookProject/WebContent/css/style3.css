@@ -1,0 +1,31 @@
+@CHARSET "UTF-8";
+a {
+	{color:red;}
+}
+
+input.txt {
+color: #00008B;
+background-color: #E3F2F7;
+border: 1px inset #00008B;
+width: 200px;
+}
+form div {
+clear: left;
+margin: 0;
+padding: 0;
+padding-top: 5px;
+}
+form div label {
+float: left;
+width: 40%;
+font: bold 0.9em Arial, Helvetica, sans-serif;
+}
+fieldset {
+border: 1px dotted #61B5CF;
+margin-top: 1.4em;
+padding: 0.6em;
+}
+body {
+  color: #404040;
+  background: #0080c0;
+}

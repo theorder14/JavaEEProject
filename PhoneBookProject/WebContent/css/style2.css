@@ -1,0 +1,17 @@
+@CHARSET "UTF-8";
+
+
+body {
+  color: #404040;
+  background: #00ffff;
+}
+
+thead 
+{color:green;}
+
+tbody 
+{color:blue;}
+
+table, th, td {
+    border: 1px solid black;
+}
