@@ -1,6 +1,9 @@
 # JavaEEProject
+An application that can add,delete or update contacts.
 
-Teknologi använd: JSP/SERVLET,MYSQL,JDBC med server tomcat.
+#Teknologi used: 
+JSP/SERVLET,MYSQL and JDBC.
+
 
 # Instruktion
 
