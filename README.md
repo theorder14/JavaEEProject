@@ -1,11 +1,11 @@
 # JavaEEProject
 An application that can add,delete or update contacts.
 
-#Teknologi used: 
+#Technology used: 
 JSP/SERVLET,MYSQL and JDBC.
 
 
-# Instruktion
+# Instruction
 
 1.Skapa databas som heter contactbook
 #
